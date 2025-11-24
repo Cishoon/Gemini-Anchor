@@ -1,5 +1,9 @@
 # Gemini Anchor - 记忆锚点 (Memory Anchor) 📍
 
+![Demo](screenshots/demo.png)
+
+
+
 > [English Version below](#-english-introduction)
 
 **Gemini Anchor** 是一个专为 Google Gemini 长对话设计的“生产力级”书签工具。
