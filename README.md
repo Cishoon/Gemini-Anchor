@@ -24,7 +24,7 @@
 
 1.  **添加书签**: 
     * 将鼠标移动到你想标记的文字上。
-    * 按住键盘 **`Alt`** 键，同时点击鼠标 **`右键`**。
+    * 按住键盘 **`Alt`/`Option`** 键，同时点击鼠标 **`右键`**。
     * 看到蓝色波纹动画即表示添加成功。
 2.  **查看列表**: 
     * 鼠标悬停在页面右上角的 **悬浮球** 上，列表会自动展开。
@@ -60,7 +60,7 @@ It allows you to place anchors **anywhere** in the chat and persists them locall
 
 1.  **Add Bookmark**: 
     * Hover over the text you want to mark.
-    * Hold **`Alt`** and **`Right Click`**.
+    * Hold **`Alt`/`Option`** and **`Right Click`**.
     * A blue ripple effect confirms the anchor is set.
 2.  **View List**: 
     * Hover over the **Floating Ball** in the top-right corner to expand the list.
